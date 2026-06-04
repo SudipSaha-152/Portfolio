@@ -1,4 +1,4 @@
-# Portfolio!
+# Portfolio
 
 
 Sudip Kumar Saha
